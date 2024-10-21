@@ -1,0 +1,7 @@
+{
+  "editor.fontSize": 18,
+  "editor.cursorStyle": "line",
+  "editor.cursorBlinking": "smooth",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "dart.flutterSdkPath": ".fvm/versions/3.24.2"
+}
